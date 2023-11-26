@@ -161,3 +161,24 @@ Homepage:
 - Accessing the application, users are greeted with the latest news displayed on the homepage.
 -  Also, seen is the preview of the news in a tabular manner.
 - Also, a collapsed closed sidebar is seen which allows users to choose the source of news.
+
+### Screenshots:
+
+- HomePage with Sider closed
+- ![HomePage with Sider closed](https://github.com/hkholic13/News247/blob/main/src/images/homepage_close.png?raw=true)
+  
+- Home Page with Sider open
+- ![Home Page with Sider open]( https://github.com/hkholic13/News247/blob/main/src/images/homepage_open.png?raw=true)
+  
+- Sider with Search bar
+- ![Sider with Search bar](https://github.com/hkholic13/News247/blob/main/src/images/homepage_search.png?raw=true)
+
+- Article Card
+- ![Article Card](https://github.com/hkholic13/News247/blob/main/src/images/article_card.png?raw=true)
+  
+- Article Already Read
+- ![Article Already Read](https://github.com/hkholic13/News247/blob/main/src/images/read_article.png?raw=true)
+  
+- Category Filters
+-  ![Category Filters](https://github.com/hkholic13/News247/blob/main/src/images/category_filter.png?raw=true)
+- ![Category Filters]( https://github.com/hkholic13/News247/blob/main/src/images/category_filter-2.png?raw=true)
